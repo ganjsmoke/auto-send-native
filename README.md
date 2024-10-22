@@ -34,8 +34,8 @@ python3 bot.py
 ### 4. Input Details
 After running the script, you will be prompted to provide:
 
-RPC URL: The URL of the EVM chain's RPC endpoint.
-Private Key: Your private key for the wallet that will be sending the transactions.
-Number of Transactions: The number of transactions you want to perform.
-Amount of Ether: The amount of Ether to send per transaction.
-Each transaction will be sent to a newly generated random recipient address.
+* RPC URL: The URL of the EVM chain's RPC endpoint.
+* Private Key: Your private key for the wallet that will be sending the transactions.
+* Number of Transactions: The number of transactions you want to perform.
+* Amount of Ether: The amount of Ether to send per transaction.
+* Each transaction will be sent to a newly generated random recipient address.
